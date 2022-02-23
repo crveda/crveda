@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Veda C R</h1>
 <h3 align="center">A enthusiastic programmer and Web developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crveda&label=Profile%20views&color=0e75b6&style=flat" alt="crveda" /> </p>
+
 - 🔭 I’m currently working on [BMS Alumini Network](https://github.com/crveda/BMS_alumini_project)
 
 - 📫 How to reach me **vedacr2510@gmail.com**
