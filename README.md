@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veda C R</h1>
-<h3 align="center">A enthusiastic programmer and Web developer from India</h3>
+<h3 align="center">An enthusiastic programmer and Web developer from India</h3>
 
 - 🔭 I’m currently working on [BMS Alumini Network](https://github.com/crveda/BMS_alumini_project)
 
